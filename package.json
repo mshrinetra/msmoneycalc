@@ -1,6 +1,6 @@
 {
   "name": "msmoneycalc",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.1",
@@ -8,6 +8,7 @@
     "popper.js": "^1.14.3",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4"
   },
   "scripts": {
@@ -27,7 +28,8 @@
     "money",
     "calculator",
     "investment",
-    "loan"
+    "loan",
+    "EMI"
   ],
   "author": "Manvendra Shrinetra",
   "license": "MIT",
